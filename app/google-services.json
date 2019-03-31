@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "367226797649",
+    "firebase_url": "https://en-rent.firebaseio.com",
+    "project_id": "en-rent",
+    "storage_bucket": "en-rent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367226797649:android:315fee95a7552eae",
+        "android_client_info": {
+          "package_name": "com.svcodelabs.enrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367226797649-gu0l5e69hf9cpdqj91vcqg0tlsur4n71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkGNO4ON8AHiWXYSAmSkqWWozHTi8y_2c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

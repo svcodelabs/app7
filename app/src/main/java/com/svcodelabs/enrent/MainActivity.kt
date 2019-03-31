@@ -1,4 +1,4 @@
-package com.svcodelabs.app7
+package com.svcodelabs.enrent
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

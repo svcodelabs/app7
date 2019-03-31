@@ -1,4 +1,4 @@
-package com.svcodelabs.app7
+package com.svcodelabs.enrent
 
 import org.junit.Test
 

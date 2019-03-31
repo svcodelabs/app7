@@ -1,4 +1,4 @@
-package com.svcodelabs.app7
+package com.svcodelabs.enrent
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
